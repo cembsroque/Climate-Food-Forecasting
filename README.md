@@ -1,6 +1,6 @@
 # Climate & Food Price Forecasting Project
 
-### Time Series Analysis with Curve Fitting and LSTM Neural Networks
+### Forecasting Global Food Prices Based on Climate Trends using LSTM Neural Networks and Curve Fitting
 
 ---
 
