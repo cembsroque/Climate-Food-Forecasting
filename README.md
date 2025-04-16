@@ -17,7 +17,7 @@ After modeling, a **correlation analysis** is performed to investigate how trend
 
 ## Motivation
 
-As a physics graduate with a strong background in experimental data analysis, I wanted to transition into **data science** by applying my skills to **real-world, globally relevant data**. This project combines:
+As a physics MSc graduate with a strong background in experimental data analysis, I wanted to transition into **data science** by applying my skills to **real-world, globally relevant data**. This project combines:
 
 - Technical modeling
 - Deep learning
